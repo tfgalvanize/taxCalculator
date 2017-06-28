@@ -1,3 +1,4 @@
+<<<<<<< f09cdf696e08e29a0f6b62439b79e36ccb7dcba6
 # Logs
 logs
 *.log
@@ -57,3 +58,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# VSCode ignored files
+.vscode
